@@ -23,10 +23,10 @@
 [ren-shi-proof-of-contribution](wo-xiang-.../ren-shi-proof-of-contribution/)
 {% endcontent-ref %}
 
-{% content-ref url="le-jie-ji-li-ce-shi-wang-he-lou-dong-shang-jin/" %}
-[le-jie-ji-li-ce-shi-wang-he-lou-dong-shang-jin](le-jie-ji-li-ce-shi-wang-he-lou-dong-shang-jin/)
+{% content-ref url="wo-xiang-.../le-jie-ji-li-ce-shi-wang-he-lou-dong-shang-jin/" %}
+[le-jie-ji-li-ce-shi-wang-he-lou-dong-shang-jin](wo-xiang-.../le-jie-ji-li-ce-shi-wang-he-lou-dong-shang-jin/)
 {% endcontent-ref %}
 
-{% content-ref url="chang-jian-wen-ti.md" %}
-[chang-jian-wen-ti.md](chang-jian-wen-ti.md)
+{% content-ref url="wo-xiang-.../chang-jian-wen-ti.md" %}
+[chang-jian-wen-ti.md](wo-xiang-.../chang-jian-wen-ti.md)
 {% endcontent-ref %}
