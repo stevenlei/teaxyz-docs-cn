@@ -29,7 +29,7 @@
     <figure><img src="https://3892031264-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FqiGksQPlVqufGUphG22z%2Fuploads%2FJgTIZoW2HKNg71lYVr0I%2F04.teaRank%20Elligible%20for%20Staking%20Rewards.png?alt=media&#x26;token=cab11d32-2739-479d-a664-4ec99b95fbd6" alt=""><figcaption></figcaption></figure>
 
     在我们的示例中，`openzeppelin-rs` 有资格获得质押奖励佣金。即项目将获得依赖于它的项目所获得的质押奖励的一部分。
-7.  查看您最喜爱的项目在开源生态系统中的主导地位。
+7.  查看您最喜爱的项目在开源生态系统中的主导位置。
 
     <figure><img src="https://3892031264-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FqiGksQPlVqufGUphG22z%2Fuploads%2F94Zvkcjng9bD8StqFxzd%2F05.teaRank%20view%20Dominance.png?alt=media&#x26;token=e46cb294-8bdb-43a5-985e-2368f25813c2" alt=""><figcaption></figcaption></figure>
 
