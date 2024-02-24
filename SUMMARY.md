@@ -7,7 +7,7 @@
     * [用户、任务与动机](wo-xiang-.../le-jie-tea-de-qu-zhong-xin-hua-xie-yi/yong-hu-ren-wu-yu-dong-ji.md)
   * [了解 tea 的代币经济学](wo-xiang-.../le-jie-tea-de-dai-bi-jing-ji-xue/README.md)
     * [代币需求驱动因素](wo-xiang-.../le-jie-tea-de-dai-bi-jing-ji-xue/dai-bi-xu-qiu-qu-dong-yin-su.md)
-    * [代币供应输入](wo-xiang-.../le-jie-tea-de-dai-bi-jing-ji-xue/dai-bi-gong-ying-shu-ru.md)
+    * [代币供应](wo-xiang-.../le-jie-tea-de-dai-bi-jing-ji-xue/dai-bi-gong-ying.md)
   * [了解 tea 的治理](wo-xiang-.../le-jie-tea-de-zhi-li/README.md)
     * [tea 治理支柱](wo-xiang-.../le-jie-tea-de-zhi-li/tea-zhi-li-zhi-zhu.md)
     * [谁可以参与？](wo-xiang-.../le-jie-tea-de-zhi-li/shui-ke-yi-can-yu.md)

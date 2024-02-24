@@ -24,15 +24,15 @@ _**tea**_ 协议引入了 teaRank 的概念，用于衡量项目在开源生态�
     <figure><img src="https://3892031264-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FqiGksQPlVqufGUphG22z%2Fuploads%2FdgQbb2RVt2h8BqEaIZ2N%2FEmpty.png?alt=media&#x26;token=69eaa582-62b4-4272-b728-b45425575bb0" alt=""><figcaption></figcaption></figure>
 
     确保通过检查其包管理器和 URL 来确认它是正确的项目。
-4.  继续到项目宪法配置屏幕，在那里您可以决定添加贡献者。法定人数规则定义了批准任何财库支出、任何财库存款、管理漏洞报告、治理投票等所需的最低贡献者数量。
+4.  继续到项目的构成配置屏幕，在那里您可以决定添加贡献者。法定人数规则定义了批准任何财库支出、任何财库存款、管理漏洞报告、治理投票等所需的最低贡献者数量。
 
     <figure><img src="https://3892031264-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FqiGksQPlVqufGUphG22z%2Fuploads%2F5WBm6v9XtmLsZXXlai64%2FGithub%20linked.png?alt=media&#x26;token=52e9afd2-2a01-4025-83c9-426702b18111" alt=""><figcaption></figcaption></figure>
-5.  接下来，您需要合并一个拉取请求（PR），以证明对该项目的所有权。您需要下载项目的宪法文件，并手动提交并合并该文件到项目的存储库中。
+5.  接下来，您需要合并一个拉取请求（PR），以证明对该项目的所有权。您需要下载项目的章程文件，并手动提交并合并该文件到项目的存储库中。
 
     <figure><img src="https://3892031264-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FqiGksQPlVqufGUphG22z%2Fuploads%2FwvPoyJTgQBku1UvVVyT9%2FScreenshot%202024-01-26%20at%2016.59.40.png?alt=media&#x26;token=993a4c34-bc62-4985-97ea-53d6001d30cc" alt=""><figcaption></figcaption></figure>
 
     您需要将此文件添加到存储库中，以确认您作为试图注册的项目的维护者之一的身份。
-6. 一旦文件合并后，_**tea**_ 将频繁检查宪法文件，一旦在存储库中找到它，将部署项目的财库（链上账户）。您可以在项目详情页面中找到项目的链上地址。
+6. 一旦文件合并后，_**tea**_ 将频繁检查章程文件，一旦在存储库中找到它，将部署项目的财库（链上账户）。您可以在项目详情页面中找到项目的链上地址。
 
 ### 常见问题
 

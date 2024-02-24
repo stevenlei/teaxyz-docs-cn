@@ -16,7 +16,7 @@ _**tea**_ 治理将利用两个不同的治理论坛，都托管在 Discourse �
 
 ### 提案阶段
 
-一个治理周期持续 4 周（ITN 期间为 2 周）。前 3 周（ITN 期间的第一周）用于起草提案并从社区获得反馈，而最后一周（ITN 同）用于投票。一个治理周定义为从周三 19:00 UTC 到周二 19:00 UTC。
+一个治理周期持续 4 周（ITN 期间为 2 周）。前 3 周（ITN 期间的第一周）用于起草提案并从社区获得反馈，而最后一周（ITN 同）用于投票。一个治理周的定义为从周三 19:00 UTC 到次周的周二 19:00 UTC。
 
 <figure><img src="https://3892031264-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FqiGksQPlVqufGUphG22z%2Fuploads%2FFQQe5uVXuKkgQRaEkUHG%2FBob%20wants%20to%20submit%20a%20proposal%20-%20Frame%201.jpg?alt=media&#x26;token=ca7ab332-a845-4e10-b290-822132ff59a4" alt=""><figcaption><p><em><strong>tea</strong></em> 治理提案的阶段</p></figcaption></figure>
 
